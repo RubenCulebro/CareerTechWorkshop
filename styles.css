@@ -1,0 +1,31 @@
+/* Reset some default styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styling for the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Style for movie reviews */
+.movie-review {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+/* Style for movie information section */
+.movie-info {
+    margin-bottom: 10px;
+}
+
+/* Style for review text */
+.review {
+    line-height: 1.4;
+}
