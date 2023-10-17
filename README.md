@@ -6,6 +6,3 @@ It is a simple user-friendly page for movies enthusiast to read read movie revie
 
 ## Motivation
 This project created to help me better understand the use of FTML, CSS and Javascript.
-
-##Screenshot
-![screenshoting](images/IMG_3591.JPEG)
